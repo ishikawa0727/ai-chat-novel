@@ -1,0 +1,8 @@
+# macOSのキャッシュファイル
+.DS_Store
+
+# パッケージ管理系
+node_modules/
+
+# 環境変数
+.env
