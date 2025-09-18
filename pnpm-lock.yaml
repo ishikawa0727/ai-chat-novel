@@ -8,9 +8,9 @@ importers:
 
   .: {}
 
-  app/backend: {}
+  backend: {}
 
-  app/frontend:
+  frontend:
     dependencies:
       next:
         specifier: ^15.5.3
